@@ -1,0 +1,9 @@
+C:\Users\eduar\source\repos\MicroOndas\bin\Debug\MicroOndas.exe.config
+C:\Users\eduar\source\repos\MicroOndas\bin\Debug\MicroOndas.exe
+C:\Users\eduar\source\repos\MicroOndas\bin\Debug\MicroOndas.pdb
+C:\Users\eduar\source\repos\MicroOndas\obj\Debug\MicroOndas.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\MicroOndas\obj\Debug\MicroOndas.Tela.resources
+C:\Users\eduar\source\repos\MicroOndas\obj\Debug\MicroOndas.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\MicroOndas\obj\Debug\MicroOndas.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\MicroOndas\obj\Debug\MicroOndas.exe
+C:\Users\eduar\source\repos\MicroOndas\obj\Debug\MicroOndas.pdb
